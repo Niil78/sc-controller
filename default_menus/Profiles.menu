@@ -1,6 +1,6 @@
 [{
     "separator": true,
-    "name": "All profiles"
+    "name": "Todos los perfiles"
 }, {
     "generator" : "profiles"
 }]
