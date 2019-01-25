@@ -1,6 +1,6 @@
 [{
     "separator": true,
-    "name": "Games"
+    "name": "Juegos"
 }, {
     "generator" : "games"
 }]
